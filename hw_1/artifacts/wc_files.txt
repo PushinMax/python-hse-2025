@@ -1,0 +1,5 @@
+>>> wc artifacts/files_examples/1.txt artifacts/files_examples/2.txt artifacts/files_examples/3.txt
+       1       15       73 artifacts/files_examples/1.txt
+       1       31      231 artifacts/files_examples/2.txt
+       1       50       99 artifacts/files_examples/3.txt
+       3       96      403 total

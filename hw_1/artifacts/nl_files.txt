@@ -1,0 +1,23 @@
+>>> nl artifacts/files_examples/1.txt artifacts/files_examples/2.txt artifacts/files_examples/3.txt
+==> artifacts/files_examples/1.txt <==
+     1  Hi? My name is Maxim
+     2  It was amazing day
+     3
+     4  Colbert is best model for search
+
+==> artifacts/files_examples/2.txt <==
+     1  ADASDAS ASDASDAS  ADSASDASD ASDASDAS DSSDS SDSDSD
+     2
+     3  IADASDAS ASDOASKDASD ASDASDASD ASDASD
+     4  SDSDSDS DDDKD DKKDD
+     5  DDDJD DJDJJD DJDJDJ DJJDJDJJDJ JOSLS DKDKDK
+     6  DKASDKAS SDADKSDK SDKAKSD ASKDKASD AKSDKAS
+     7  DKAKSD ADSMM AMAM AMAM AMAML D DSDD
+
+==> artifacts/files_examples/3.txt <==
+     1  a a a a a a a a a a
+     2  b b b b b b b b b b
+     3  a a a c c c a a a d
+     4  d d d d d a a a a a
+     5  f f f f f f f f f f
+>>>

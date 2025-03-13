@@ -1,0 +1,9 @@
+>>> nl "Hi\nMy name is Maxim\nI live\n\n"
+     1  Hi
+     2  My name is Maxim
+     3  I live
+     4
+     5
+
+>>> nl
+nl need args

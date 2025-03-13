@@ -1,0 +1,20 @@
+>>> tail artifacts/files_examples/1.txt artifacts/files_examples/2.txt artifacts/files_examples/3.txt
+==> artifacts/files_examples/1.txt <==
+Hi? My name is Maxim
+It was amazing day
+
+Colbert is best model for search
+==> artifacts/files_examples/2.txt <==
+ADASDAS ASDASDAS  ADSASDASD ASDASDAS DSSDS SDSDSD
+
+IADASDAS ASDOASKDASD ASDASDASD ASDASD
+SDSDSDS DDDKD DKKDD
+DDDJD DJDJJD DJDJDJ DJJDJDJJDJ JOSLS DKDKDK
+DKASDKAS SDADKSDK SDKAKSD ASKDKASD AKSDKAS
+DKAKSD ADSMM AMAM AMAM AMAML D DSDD
+==> artifacts/files_examples/3.txt <==
+a a a a a a a a a a
+b b b b b b b b b b
+a a a c c c a a a d
+d d d d d a a a a a
+f f f f f f f f f f
