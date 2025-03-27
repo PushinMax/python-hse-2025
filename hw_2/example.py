@@ -1,5 +1,5 @@
 from latex_generator.generator import generate_table, generate_image
-
+import pdflatex
 
 table_data = [
     ["Name", "Age", "City"],
@@ -20,5 +20,5 @@ latex_document = (
     "\\end{document}"
 )
 
-with open("output.tex", "w") as f:
+with open("artifacts/output.tex", "w") as f:
     f.write(latex_document)
